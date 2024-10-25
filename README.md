@@ -1,6 +1,6 @@
 <body style="background-color: #f2f0f5;">
 <div align="center">
-  <img src="https://github.com/sulthonkaf/wallpaper/blob/2781ea3cfd487372088cb7ce2c6b4098cca442af/light-ring.jpg" />
+  <img src="https://github.com/ums-l200220279/sulthonkaf/blob/main/wallpaper/datascience.png" />
 </div>
 
 ###
