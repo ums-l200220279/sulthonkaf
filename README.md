@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
 </div>
 
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Hello There 👋</h1>
 <h2 align="center">Machine Learning enthusiast, passionate about Artificial Intelligence and Software Development.</h2>
 ###
 <div align="center">
